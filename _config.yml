@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jihong Zhu"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Postdoc at TU Delft and Honda Research Institute, Europe"
   location         : "Delft, NL"
   employer         :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
