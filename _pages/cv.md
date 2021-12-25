@@ -1,9 +1,9 @@
 ---
 layout: archive
-title: "CV"
+title: "Brief Bio"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
-CV
+cv

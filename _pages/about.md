@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Dr. ir. Jihong Zhu"
-excerpt: "About me"
+excerpt: "Brief bio"
 author_profile: true
 redirect_from:
   - /about/
