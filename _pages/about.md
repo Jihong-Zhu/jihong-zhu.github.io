@@ -19,6 +19,7 @@ Contact: j.zhu-3(at)tudelft(dot)nl
 
 
 # News
+* Our paper [Challenges and Outlook in Robotic Manipulation of Deformable Objects](https://arxiv.org/pdf/2105.01767.pdf) was accepted at IEEE Robotics and Automation Magazine.
 * Our workshop on [Bi-manual Manipulation: Addressing Real-world Challenges](https://sites.google.com/view/bm4rw/home) was accepted at [ICRA 2022](https://www.icra2022.org/), more info coming soon, stay tuned!
 * Jihong serves as the program committee for [4th Robot Learning Workshop](http://www.robot-learning.ml/2021/) @ NeurIPS 2021
 * Jihong serves as an Associate Editor for [ICRA 2022](http://www.icra2022.org/)  

@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-A roboticist who works to solve robotics manipulation problems. My current research focuses on imitation and interactive learning with applications to motion generation in Human-Robot Interaction, another line of research is vision-based control with its application to robotic manipulation of deformable objects.
+My current research focuses on imitation and interactive learning with applications to motion generation in Human-Robot Interaction, another line of research is vision-based control with its application to robotic manipulation of deformable objects.
 
 Currently, I am working on robotic assistive dressing as a post-doc at [Cognitive Robotics](https://www.tudelft.nl/en/3me/about/departments/cognitive-robotics-cor/), [TU Delft](https://www.tudelft.nl/en) with [Prof. Jens Kober](http://www.jenskober.de/) and [Dr. Michael Gienger](https://scholar.google.de/citations?user=oU2jyxMAAAAJ&hl=en)([Honda Research Institute, Europe](https://www.honda-ri.de/)).
 
