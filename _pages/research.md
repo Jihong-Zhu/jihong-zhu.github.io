@@ -13,12 +13,12 @@ Currently, I am working on robotic assistive dressing as a post-doc at [Cognitiv
 " target="_blank"><img src="http://img.youtube.com/vi/yY4k1nnhA60/0.jpg"
 alt="" width="240" height="180" border="10" /></a>
 
-Zhu J, Gienger M., Kober J. Learning Task-Parameterized Skills from Few Demonstrations, IEEE Robotics and Automation Letters (under review)
+Zhu J, Gienger M., Kober J. Learning Task-Parameterized Skills from Few Demonstrations, IEEE Robotics and Automation Letters (accepted)
 
 ## Deformable Objects Manipulation
 
 ### A survey article
-Jihong Zhu, Andrea Cherubini, Claire Dune, David Navarro-Alarcon, Farshid Alambeigi, Dmitry Berenson, Fanny Ficuciello, Kensuke Harada, Jens Kober, Xiang Li, Jia Pan, Wenzhen Yuan, and Michael Gienger. [Challenges and Outlook in Robotic Manipulation of Deformable Objects](https://arxiv.org/pdf/2105.01767.pdf), Conditionally accepted for IEEE Robotics and Automation Magazine
+Jihong Zhu, Andrea Cherubini, Claire Dune, David Navarro-Alarcon, Farshid Alambeigi, Dmitry Berenson, Fanny Ficuciello, Kensuke Harada, Jens Kober, Xiang Li, Jia Pan, Wenzhen Yuan, and Michael Gienger. [Challenges and Outlook in Robotic Manipulation of Deformable Objects](https://arxiv.org/pdf/2105.01767.pdf), IEEE Robotics and Automation Magazine (accepted)
 
 ### Manipulation of deformable and rigid object
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=gYfO2ZxZ5KQ

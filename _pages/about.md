@@ -19,14 +19,19 @@ Contact: j.zhu-3(at)tudelft(dot)nl
 
 
 # News
-* Our paper [Challenges and Outlook in Robotic Manipulation of Deformable Objects](https://arxiv.org/pdf/2105.01767.pdf) was accepted at IEEE Robotics and Automation Magazine.
+* new journal paper<br>
+  Jihong Zhu, Michael Gienger, and Jens Kober. [Learning Task-Parameterized Skills from Few Demonstrations.](https://arxiv.org/pdf/2201.09975.pdf) IEEE Robotics and Automation Letters, 2022 (accepted).
+* new journal paper<br>
+   Jihong Zhu, Andrea Cherubini, Claire Dune, David Navarro-Alarcon, Farshid Alambeigi, Dmitry Berenson, Fanny Ficuciello, Kensuke Harada, Jens Kober, Xiang Li, Jia Pan, Wenzhen Yuan, and Michael Gienger. [Challenges and Outlook in Robotic Manipulation of Deformable Objects.](https://arxiv.org/pdf/2105.01767.pdf) IEEE Robotics and Automation Magazine (accepted).
 * Our workshop on [Bi-manual Manipulation: Addressing Real-world Challenges](https://sites.google.com/view/bm4rw/home) was accepted at [ICRA 2022](https://www.icra2022.org/), more info coming soon, stay tuned!
 * Jihong serves as the program committee for [4th Robot Learning Workshop](http://www.robot-learning.ml/2021/) @ NeurIPS 2021
 * Jihong serves as an Associate Editor for [ICRA 2022](http://www.icra2022.org/)  
 * Master student [Chia-Yu Tsai](https://www.linkedin.com/in/chia-yu-tsai/) (co-supervised with [Prof. Jens Kober](http://www.jenskober.de/)) graduated with 8.5/10! Congrats!
 * Our workshop on [Robotic Manipulation of Deformable Objects in Real-world Applications (RoMaDO-RA)](https://adkoessler.github.io/romadora-workshop/) was accepted at IROS'21.
 * Our Special Issue proposal on [Robotic Handling of Deformable Objects](https://www.ieee-ras.org/publications/ra-l/special-issues/cfp-robotic-handling-of-deformable-objects) is accepted at RA-L, where I am the lead guest editor.
-* Our paper [LaSeSOM: A Latent and Semantic Representation Framework for Soft Object Manipulation](https://arxiv.org/pdf/2012.05412.pdf) was accepted at RA-L
-* Our paper [Vision-based Manipulation of Deformable and Rigid Objects Using Subspace Projections of 2D Contours](https://arxiv.org/abs/2006.09023) was accepted at Robotics and Autonomous Systems
+* new journal paper<br>
+   P. Zhou, J. Zhu. S. Huo and D. Navarro-Alarcon [LaSeSOM: A Latent and Semantic Representation Framework for Soft Object Manipulation](https://arxiv.org/pdf/2012.05412.pdf) IEEE Robotics and Automation Letters (RA-L), vol. 6, no. 3, pp. 5381-5388, 2021.
+* new journal paper<br>
+   J. Zhu, D. Navarro-Alarcon, R. Passama and A. Cherubini. [Vision-based Manipulation of Deformable and Rigid Objects Using Subspace Projections of 2D Contours](https://arxiv.org/abs/2006.09023) Robotics and Autonomous Systems (RAS), vol. 142, pp. 103798, 2021.
 * Jihong serves as an Associate Editor for [ICARM 2021](http://www.ieee-arm.org/)
 * Jihong serves as an Associate Editor for [ICRA 2021](http://www.icra2021.org/)
