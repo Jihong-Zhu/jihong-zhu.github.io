@@ -19,6 +19,7 @@ Contact: j.zhu-3(at)tudelft(dot)nl
 
 
 # News
+* Jihong is appointed an Associate Editor for the [IEEE Robot and Automation Letter (RA-L)]{https://www.ieee-ras.org/publications/ra-l} 
 * new journal paper<br>
   Jihong Zhu, Michael Gienger, and Jens Kober. [Learning Task-Parameterized Skills from Few Demonstrations.](https://arxiv.org/pdf/2201.09975.pdf) IEEE Robotics and Automation Letters, 2022 (accepted).
 * new journal paper<br>
