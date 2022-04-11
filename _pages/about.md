@@ -16,10 +16,13 @@ Delft University of Technology (TU Delft)
 
 Contact: j.zhu-3(at)tudelft(dot)nl
 
+<!-- Incoming Lecturer in Robotics (=Assistant Professor), Electronic Engineering, University of York, the UK. -->
+
 
 
 # News
-* Jihong is appointed an Associate Editor for the [IEEE Robot and Automation Letter (RA-L)](https://www.ieee-ras.org/publications/ra-l) 
+* Jihong is among the featured alumni from the University of Birmingham (where I obtained my bachelor degree), the link to my story: [Jihong Zhu](https://www.birmingham.ac.uk/university/colleges/eps/eps-community/alumni-profiles-new/eese/jihong-zhu.aspx) 
+* Jihong is appointed an Associate Editor for the [IEEE Robot and Automation Letter (RA-L)](https://www.ieee-ras.org/publications/ra-l)
 * new journal paper<br>
   Jihong Zhu, Michael Gienger, and Jens Kober. [Learning Task-Parameterized Skills from Few Demonstrations.](https://arxiv.org/pdf/2201.09975.pdf) IEEE Robotics and Automation Letters, 2022 (accepted).
 * new journal paper<br>
