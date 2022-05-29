@@ -14,20 +14,24 @@ Faculty of Mechanical, Maritime and Materials Engineering (3mE),
 
 Delft University of Technology (TU Delft)
 
+Incoming Lecturer (=Assistant Professor) of Robotics, Electronic Engineering, University of York, the UK.
+
 Contact: j.zhu-3(at)tudelft(dot)nl
 
-<!-- Incoming Lecturer in Robotics (=Assistant Professor), Electronic Engineering, University of York, the UK. -->
 
 
 
 # News
-* Jihong is among the featured alumni from the University of Birmingham (where I obtained my bachelor degree), the link to my story: [Jihong Zhu](https://www.birmingham.ac.uk/university/colleges/eps/eps-community/alumni-profiles-new/eese/jihong-zhu.aspx) 
+* Workshop @ [IROS 2022](https://iros2022.org/) <br>
+  3rd workshop on RObotic MAnipulation of Deformable Objects: challenges in perception, planning and control for Soft Interaction (ROMADO-SI)
+* Jihong is among the featured alumni from the University of Birmingham (where I obtained my bachelor degree), the link to my story: [Jihong Zhu](https://www.birmingham.ac.uk/university/colleges/eps/eps-community/alumni-profiles-new/eese/jihong-zhu.aspx)
 * Jihong is appointed an Associate Editor for the [IEEE Robot and Automation Letter (RA-L)](https://www.ieee-ras.org/publications/ra-l)
 * new journal paper<br>
   Jihong Zhu, Michael Gienger, and Jens Kober. [Learning Task-Parameterized Skills from Few Demonstrations.](https://arxiv.org/pdf/2201.09975.pdf) IEEE Robotics and Automation Letters, 2022 (accepted).
 * new journal paper<br>
    Jihong Zhu, Andrea Cherubini, Claire Dune, David Navarro-Alarcon, Farshid Alambeigi, Dmitry Berenson, Fanny Ficuciello, Kensuke Harada, Jens Kober, Xiang Li, Jia Pan, Wenzhen Yuan, and Michael Gienger. [Challenges and Outlook in Robotic Manipulation of Deformable Objects.](https://arxiv.org/pdf/2105.01767.pdf) IEEE Robotics and Automation Magazine (accepted).
-* Our workshop on [Bi-manual Manipulation: Addressing Real-world Challenges](https://sites.google.com/view/bm4rw/home) was accepted at [ICRA 2022](https://www.icra2022.org/), more info coming soon, stay tuned!
+* Workshop @ [ICRA 2022](https://www.icra2022.org/) <br>
+  [Bi-manual Manipulation: Addressing Real-world Challenges](https://sites.google.com/view/bm4rw/home)
 * Jihong serves as the program committee for [4th Robot Learning Workshop](http://www.robot-learning.ml/2021/) @ NeurIPS 2021
 * Jihong serves as an Associate Editor for [ICRA 2022](http://www.icra2022.org/)  
 * Master student [Chia-Yu Tsai](https://www.linkedin.com/in/chia-yu-tsai/) (co-supervised with [Prof. Jens Kober](http://www.jenskober.de/)) graduated with 8.5/10! Congrats!
