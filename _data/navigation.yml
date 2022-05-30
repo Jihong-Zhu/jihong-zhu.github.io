@@ -1,24 +1,29 @@
 # main links links
 main:
+  - title: "About Me"
+    url: /about-me/
+
   - title: "Publications"
     url: /publications/
   #
-  # - title: "Talks"
-  #   url: /talks/
+  - title: "Selected Research"
+    url: /research/
+
+  - title: "Workshops & Talks"
+    url: /talks/
   #
   - title: "Teaching"
     url: /teaching/
+
+  - title: "Miscellaneous"
+    url: /miscellaneous/
   #
   # - title: "Selected Research"
   #   url: /portfolio/
   #
 
   #
-  - title: "About Me"
-    url: /about-me/
 
-  - title: "Selected Research"
-    url: /research/
 
   - title: "Blog Posts"
     url: /year-archive/
