@@ -23,7 +23,7 @@ Contact: j.zhu-3(at)tudelft(dot)nl
 
 # News
 * Workshop @ [IROS 2022](https://iros2022.org/) <br>
-  3rd workshop on RObotic MAnipulation of Deformable Objects: challenges in perception, planning and control for Soft Interaction (ROMADO-SI)
+  [3rd workshop on RObotic MAnipulation of Deformable Objects: challenges in perception, planning and control for Soft Interaction (ROMADO-SI)](https://romado-workshop.github.io/ROMADO2022/)
 * Jihong is among the featured alumni from the University of Birmingham (where I obtained my bachelor degree), the link to my story: [Jihong Zhu](https://www.birmingham.ac.uk/university/colleges/eps/eps-community/alumni-profiles-new/eese/jihong-zhu.aspx)
 * Jihong is appointed an Associate Editor for the [IEEE Robot and Automation Letter (RA-L)](https://www.ieee-ras.org/publications/ra-l)
 * new journal paper<br>
