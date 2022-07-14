@@ -9,6 +9,8 @@ This page compiles all my publications
 For a more up-to-date list, see my [google scholar](https://scholar.google.nl/citations?hl=en&user=PsD5R3sAAAAJ&view_op=list_works&sortby=pubdate)
 ## 2022
 
+[J] **J. Zhu**, C. Dune, M. Aranda, Y. Mezouar, J. A. Corrales, P. Gil, G. Lopez-Nicolas, Editorial: Robotic Handling of Deformable Objects, in IEEE Robotics and Automation Letters, vol. 7, no. 3, pp. 8257-8259, July 2022.
+
 [J] **J. Zhu**, A. Cherubini, C. Dune, D. Navarro-Alarcon, F. Alambeigi, D. Berenson, F. Ficuciello, K. Harada, X. Li, J. Pan, W. Yuan, and M. Gienger, Challenges and outlook in robotic manipulation of deformable objects. IEEE Robotics and Automation Magazine, 2022.
 
 [J] **J. Zhu**, [M. Gienger](https://scholar.google.nl/citations?user=oU2jyxMAAAAJ&hl=en), [J. Kober](http://www.jenskober.de/index.php), Learning Task-Parameterized Skills from Few Demonstrations, IEEE Robotics and Automation Letters, vol. 7, no. 2, pp. 4063-4070, April 2022.
