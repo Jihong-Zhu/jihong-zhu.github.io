@@ -27,12 +27,12 @@ For a more up-to-date list, see my [google scholar](https://scholar.google.nl/ci
 
 [PhD Thesis] **J. Zhu** , Vision-based robotic manipulation of deformable linear objects (Doctoral dissertation, Université Montpellier).
 
+[J] **J. Zhu**, B. Navarro, R. Passama, P. Fraisse, A. Crosnier and A. Cherubini, "Robotic Manipulation Planning for Shaping Deformable Linear Objects WithEnvironmental Contacts," in IEEE Robotics and Automation Letters, vol. 5, no. 1, pp. 16-23, Jan. 2020, doi: 10.1109/LRA.2019.2944304.
+
 [J] D. Navarro-Alarcon, J. Qi, J. Zhu, A. Cherubini, A Lyapunov-stable adaptive method to approximate sensorimotor models for sensor-based control. Frontiers in Neurorobotics. 2020:59.
 
 ## 2019
 
 [J] A. Cherubini, R. Passama, B. Navarro, M. Sorour, A. Khelloufi, O. Mazhar, S. Tarbouriech, **J. Zhu**, O. Tempier, A. Crosnier,P. Fraisse, A collaborative robot for the factory of the future: Bazar. The International Journal of Advanced Manufacturing Technology. 2019 Dec;105(9):3643-59.
-
-[J] **J. Zhu**, B. Navarro, R. Passama, P. Fraisse, A. Crosnier and A. Cherubini, "Robotic Manipulation Planning for Shaping Deformable Linear Objects WithEnvironmental Contacts," in IEEE Robotics and Automation Letters, vol. 5, no. 1, pp. 16-23, Jan. 2020, doi: 10.1109/LRA.2019.2944304.
 
 [C] **J. Zhu**, B. Navarro, P. Fraisse, A. Crosnier and A. Cherubini, "Dual-arm robotic manipulation of flexible cables," 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2018, pp. 479-484, doi: 10.1109/IROS.2018.8593780.
