@@ -14,7 +14,7 @@ Faculty of Mechanical, Maritime and Materials Engineering (3mE),
 
 Delft University of Technology (TU Delft)
 
-Incoming Lecturer (=Assistant Professor) of Robotics, Electronic Engineering, University of York, the UK.
+Incoming Lecturer (=Assistant Professor) of Robotics, School of Physics, Engineering and Technology, University of York, the UK.
 
 Contact: j.zhu-3(at)tudelft(dot)nl
 
