@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Postdoctoral Researcher, [Cognitive Robotics](https://www.tudelft.nl/en/3me/about/departments/cognitive-robotics-cor/)
+Lecturer (=Assistant Professor) of Robotics,
 
-Faculty of Mechanical, Maritime and Materials Engineering (3mE),
+[School of Physics, Engineering and Technology](https://www.york.ac.uk/physics-engineering-technology/),
+University of York,
+Heslington York, the UK.
 
-Delft University of Technology (TU Delft)
+Visiting Researcher (by courtesy), [Cognitive Robotics](https://www.tudelft.nl/en/3me/about/departments/cognitive-robotics-cor/), Faculty of Mechanical, Maritime and Materials Engineering (3mE), TU Delft
 
-Incoming Lecturer (=Assistant Professor) of Robotics, School of Physics, Engineering and Technology, University of York, the UK.
-
-Contact: j.zhu-3(at)tudelft(dot)nl
+Contact: jihong(dot)zhu(at)york(dot)ac(dot)uk
 
 
 
