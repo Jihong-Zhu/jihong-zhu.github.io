@@ -22,6 +22,7 @@ Contact: jihong(dot)zhu(at)york(dot)ac(dot)uk
 
 
 # News
+* Jihong serves as an Associate Editor for [ICRA 2023](https://www.icra2023.org/)
 * Our RA-L Special Issue (SI) on [Robotic Handling of Deformable Objects](https://www.ieee-ras.org/publications/ra-l/special-issues/cfp-robotic-handling-of-deformable-objects) is now online and you can read a summary of the SI in our editorial article (open access): [Editorial: Robotic Handling of Deformable Objects](https://ieeexplore.ieee.org/document/9823380)
 * Workshop @ [IROS 2022](https://iros2022.org/) <br>
   [3rd workshop on RObotic MAnipulation of Deformable Objects: challenges in perception, planning and control for Soft Interaction (ROMADO-SI)](https://romado-workshop.github.io/ROMADO2022/)
