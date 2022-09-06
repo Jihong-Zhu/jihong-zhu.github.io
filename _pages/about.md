@@ -14,7 +14,9 @@ Lecturer (=Assistant Professor) of Robotics,
 University of York,
 Heslington York, the UK.
 
-Visiting Researcher (by courtesy), [Cognitive Robotics](https://www.tudelft.nl/en/3me/about/departments/cognitive-robotics-cor/), Faculty of Mechanical, Maritime and Materials Engineering (3mE), TU Delft
+Visiting Researcher (by courtesy),
+
+[Cognitive Robotics](https://www.tudelft.nl/en/3me/about/departments/cognitive-robotics-cor/), Faculty of Mechanical, Maritime and Materials Engineering (3mE), TU Delft
 
 Contact: jihong(dot)zhu(at)york(dot)ac(dot)uk
 
