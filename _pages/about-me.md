@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-Jihong Zhu is a postdoctoral researcher at [Cognitive Robotics](https://www.tudelft.nl/en/3me/about/departments/cognitive-robotics-cor/), [TU Delft](https://www.tudelft.nl/en) working with [Prof. Jens Kober](http://www.jenskober.de/) and [Dr. Michael Gienger](https://scholar.google.de/citations?user=oU2jyxMAAAAJ&hl=en)([Honda Research Institute, Europe](https://www.honda-ri.de/)).
+Jihong Zhu is a lecturer (assistant professor) in robotics at [School of Physics, Engineering and Technology, University of York](https://www.york.ac.uk/physics-engineering-technology/). He was a postdoctoral researcher at [Cognitive Robotics](https://www.tudelft.nl/en/3me/about/departments/cognitive-robotics-cor/), [TU Delft](https://www.tudelft.nl/en) working with [Prof. Jens Kober](http://www.jenskober.de/) and [Dr. Michael Gienger](https://scholar.google.de/citations?user=oU2jyxMAAAAJ&hl=en)([Honda Research Institute, Europe](https://www.honda-ri.de/)).
 
 Jihong is presently an Associate Editor for [IEEE Robotics and Automation Letters (RA-L)](https://www.ieee-ras.org/publications/ra-l). He serves as an Associate Editor for ICRA (top robotics conference) since 2020, and the Lead Guest Editor for RA-L Special Issue on [Robotic Handling of Deformable Objects](https://www.ieee-ras.org/publications/ra-l/special-issues/cfp-robotic-handling-of-deformable-objects). He is the main/co-organizer for several workshops at ICRA and IROS (top robotics conference) on robotic manipulation.
 

@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+<span style="color:red"> **I am looking for PhD students interested in robotic manipulation. I have one fully-funded PhD studentship (UK rate) available while also looking for self-funded students**</span>.
+
 Lecturer (=Assistant Professor) of Robotics,
 
 [School of Physics, Engineering and Technology](https://www.york.ac.uk/physics-engineering-technology/),
