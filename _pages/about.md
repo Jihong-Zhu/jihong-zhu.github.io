@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<span style="color:red"> **I am looking for PhD students interested in robotic manipulation. I have one fully-funded PhD studentship (UK rate) available while also looking for self-funded students**</span>.
+<span style="color:red"> **I am looking for PhD students interested in robotic manipulation. I have one fully-funded PhD studentship (UK rate) available while also look for self-funded students**</span>.
 
 Lecturer (=Assistant Professor) of Robotics,
 
