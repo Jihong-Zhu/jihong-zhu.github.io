@@ -28,4 +28,4 @@ I enjoy travel to new places. In fact, I have been living in four different coun
 * Florence, Italy
 
 ## Cat:
-I love cats. 
+I love cats. I adopt a orange-white colored cat in France and he accompanied me to the Netherlands. He will (hopefully) move to the UK with me soon.
