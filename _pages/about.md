@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<span style="color:red"> **I am looking for PhD students interested in robotic manipulation. I have one fully-funded PhD studentship (UK rate) available while also look for self-funded students**</span>.
+<span style="color:red"> **I am looking for PhD students interested in robotic manipulation. I have one fully-funded PhD studentship (UK rate) available while also looking for self-funded students**</span>.
 
 Lecturer (=Assistant Professor) of Robotics,
 
@@ -24,8 +24,8 @@ Contact: jihong(dot)zhu(at)york(dot)ac(dot)uk
 
 
 
-
 # News
+* Master students (TU Delft) Jianyong Sun and Yulei Qiu graduated with 8.0! Congrats!
 * Jihong serves as an Associate Editor for [ICRA 2023](https://www.icra2023.org/)
 * Our RA-L Special Issue (SI) on [Robotic Handling of Deformable Objects](https://www.ieee-ras.org/publications/ra-l/special-issues/cfp-robotic-handling-of-deformable-objects) is now online and you can read a summary of the SI in our editorial article (open access): [Editorial: Robotic Handling of Deformable Objects](https://ieeexplore.ieee.org/document/9823380)
 * Workshop @ [IROS 2022](https://iros2022.org/) <br>
