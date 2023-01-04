@@ -9,7 +9,7 @@ I started playing basketball since I was a child, although never been profession
 
 Influenced by a [childhood friend](https://mydramalist.com/people/74791-xu-zi-lai), I did freestyle basketball and performed (with him) during high school, and some solo performances in the university. An old performance video can be found at [freestyle basketball](https://youtu.be/91QNBn9gjJg)
 
-I could still play some of the tricks.
+I can still play some of the tricks.
 
 ## Travel:
 I enjoy travel to new places. In fact, I have been living in four different countries in Europe (the UK, Netherlands, Germany, and France) since 2011. Places I lived (or am currently living):
