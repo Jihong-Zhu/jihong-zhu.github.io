@@ -25,6 +25,7 @@ Contact: jihong(dot)zhu(at)york(dot)ac(dot)uk
 
 
 # News
+* We proposed a bimanual assistive dressing scheme, which is unprecedented in previous research: [Bimanual dressing assistance](https://sites.google.com/view/bimanualassitdressing/)
 * Jihong joined the editorial broad of [Complex and Intelligent Systems, Springer](https://www.springer.com/journal/40747)(IF=6.7, JCR Q1)
 * Master students (TU Delft) Jianyong Sun and Yulei Qiu graduated with 8.0! Congrats!
 * Jihong serves as an Associate Editor for [ICRA 2023](https://www.icra2023.org/)
