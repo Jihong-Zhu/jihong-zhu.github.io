@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<span style="color:red"> **I am looking for PhD students interested in robotic manipulation. I have one fully-funded PhD studentship (UK rate) available while also looking for self-funded students**</span>.
+<span style="color:red"> **I am looking for self-funded students PhD students who are interested in robotic manipulation, drop me an email if you are interested in working with me**</span>.
 
 Lecturer (=Assistant Professor) of Robotics,
 
@@ -25,6 +25,8 @@ Contact: jihong(dot)zhu(at)york(dot)ac(dot)uk
 
 
 # News
+* Jihong is an invited speaker for [3rd Workshop on Representing and Manipulating Deformable Objects@ICRA2023](https://deformable-workshop.github.io/icra2023/)
+* Jihong serves as an Associate Editor for IROS 2023
 * We proposed a bimanual assistive dressing scheme check it out at: [Bimanual dressing assistance](https://sites.google.com/view/bimanualassitdressing/)
 * Jihong joined the editorial broad of [Complex and Intelligent Systems, Springer](https://www.springer.com/journal/40747)(IF=6.7, JCR Q1)
 * Master students (TU Delft) Jianyong Sun and Yulei Qiu graduated with 8.0! Congrats!
@@ -49,7 +51,6 @@ Contact: jihong(dot)zhu(at)york(dot)ac(dot)uk
    P. Zhou, J. Zhu. S. Huo and D. Navarro-Alarcon [LaSeSOM: A Latent and Semantic Representation Framework for Soft Object Manipulation](https://arxiv.org/pdf/2012.05412.pdf) IEEE Robotics and Automation Letters (RA-L), vol. 6, no. 3, pp. 5381-5388, 2021.
 * new journal paper<br>
    J. Zhu, D. Navarro-Alarcon, R. Passama and A. Cherubini. [Vision-based Manipulation of Deformable and Rigid Objects Using Subspace Projections of 2D Contours](https://arxiv.org/abs/2006.09023) Robotics and Autonomous Systems (RAS), vol. 142, pp. 103798, 2021.
-* Jihong serves as an Associate Editor for [ICARM 2021](http://www.ieee-arm.org/)
 * Jihong serves as an Associate Editor for [ICRA 2021](http://www.icra2021.org/)
 
 ## Visitors
