@@ -10,6 +10,8 @@ author_profile: true
 * Talk at [ATARI workshop](https://research.birmingham.ac.uk/en/projects/self-learning-robotics-for-industrial-contact-rich-tasks-atari-en) invited by [Dr. Yongjing Wang](https://www.birmingham.ac.uk/staff/profiles/mechanical/yongjing-wang.aspx)
 
 ## Workshop organization
+Co-organizer, ICRA 2023 Workshop on [Emerging paradigms for assistive robotic manipulation: from research labs to the real world](https://sites.google.com/unisi.it/workshop-manipulation)
+
 Co-organizer, ICRA 2022 Workshop on [Bi-manual Manipulation: Addressing Real-world Challenges](https://sites.google.com/view/bm4rw/home)
 
 Co-organizer, IROS 2021 Workshop on [Robotic Manipulation of Deformable Objects in Real-world Applications (RoMaDO-RA)](https://adkoessler.github.io/romadora-workshop/)

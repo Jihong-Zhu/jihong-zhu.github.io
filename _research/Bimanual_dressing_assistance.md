@@ -1,5 +1,5 @@
 ---
-title: "Do You Need a Hand? - An Interactive Robotic Dressing Assistance Scheme"
+title: "Do You Need a Hand? - An Bimanual Robotic Dressing Assistance Scheme"
 excerpt: "Bimanual Dressing Assistance <br/><img src='/images/dressing_setup_overview.png'>"
 collection: research
 ---
@@ -11,4 +11,4 @@ Developing physically assistive robots capable of dressing assistance has the po
 alt="" width="1920" height="1080" border="10" /></a>
 
 <br/><br/>
-Zhu J, [Gienger M.](https://scholar.google.nl/citations?user=oU2jyxMAAAAJ&hl=en), Giovanni Franzese, [Kober J.](http://www.jenskober.de/index.php) [Do You Need a Hand? -- An Interactive Robotic Dressing Assistance Scheme](https://arxiv.org/abs/2301.02749)
+Zhu J, [Gienger M.](https://scholar.google.nl/citations?user=oU2jyxMAAAAJ&hl=en), Giovanni Franzese, [Kober J.](http://www.jenskober.de/index.php) [Do You Need a Hand? -- An Bimanual Robotic Dressing Assistance Scheme](https://arxiv.org/abs/2301.02749)
