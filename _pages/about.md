@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<span style="color:red"> **I am looking for self-funded students PhD students who are interested in robotic manipulation, drop me an email if you are interested in working with me**</span>.
+<span style="color:red"> **I am looking for self-funded students PhD students who are interested in robotic manipulation, drop me an email if you are interested in working with me**</span>. 
 
 Lecturer (=Assistant Professor) of Robotics,
 
@@ -26,7 +26,9 @@ Contact: jihong(dot)zhu(at)york(dot)ac(dot)uk
 
 # News
 * Jihong is an invited speaker for [3rd Workshop on Representing and Manipulating Deformable Objects@ICRA2023](https://deformable-workshop.github.io/icra2023/)
+* Jihong gave a talk at [York Medical Society](https://yorkmedsoc.org/) entitled: "Robots in Caregiving"
 * Jihong serves as an Associate Editor for IROS 2023
+* Jihong visited [Personal Robotics Lab@Imperial College London](https://www.imperial.ac.uk/personal-robotics/) and gave a talk on his latest research on bimanual dressing assistance
 * We proposed a bimanual assistive dressing scheme check it out at: [Bimanual dressing assistance](https://sites.google.com/view/bimanualassitdressing/)
 * Workshop in assistive manipulation at [ICRA'23](https://www.icra2023.org/): [Emerging paradigms for assistive robotic manipulation: from research labs to the real world](http://sirslab.diism.unisi.it/WorkshopManipulation/index.html)
 * Jihong joined the editorial broad of [Complex and Intelligent Systems, Springer](https://www.springer.com/journal/40747)(IF=6.7, JCR Q1)
