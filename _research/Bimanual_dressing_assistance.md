@@ -1,5 +1,5 @@
 ---
-title: "Do You Need a Hand? - An Bimanual Robotic Dressing Assistance Scheme"
+title: "Do You Need a Hand? - A Bimanual Robotic Dressing Assistance Scheme"
 excerpt: "Bimanual Dressing Assistance <br/><img src='/images/dressing_setup_overview.png'>"
 collection: research
 ---
