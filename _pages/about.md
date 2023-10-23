@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<span style="color:red"> **I am looking for self-funded students PhD students who are interested in robotic manipulation, drop me an email if you are interested in working with me**</span>. 
+<span style="color:red"> **I am looking for self-funded students PhD students who are interested in robotic manipulation, drop me an email if you are interested in working with me**</span>.
 
 Lecturer (=Assistant Professor) of Robotics,
 
@@ -25,7 +25,8 @@ Contact: jihong(dot)zhu(at)york(dot)ac(dot)uk
 
 
 # News
-* Both of my previous master students' research were accepted at [ 18th International Symposium on Experimental Robotics (ISER 2023)](https://iser2023.org/)! Congrats Yulei and Jianyong <br>:
+* Jihong is an invited speaker and a member of the organisation committee for [The 5th UK Robot Manipulation Workshop](https://www.robot-manipulation.uk/)
+* Both of my previous master students' research were accepted at [18th International Symposium on Experimental Robotics (ISER 2023)](https://iser2023.org/)! Congrats Yulei and Jianyong! <br>
 Yulei Qiu, Jihong Zhu, Cosimo Della Santina, Michael Gienger, and Jens Kober. Robotic Fabric Flattening with Wrinkle Direction Detection. In 18th International Symposium on Experimental Robotics (ISER), 2023 <br>
 Jianyong Sun, Jens Kober, Michael Gienger and Jihong Zhu. Learning from Few Demonstrations with Frame-Weighted Motion Generation. In 18th International Symposium on Experimental Robotics (ISER), 2023.
 * Jihong is an invited speaker for [3rd Workshop on Representing and Manipulating Deformable Objects@ICRA2023](https://deformable-workshop.github.io/icra2023/)
