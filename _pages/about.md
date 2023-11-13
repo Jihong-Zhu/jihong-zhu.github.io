@@ -27,7 +27,7 @@ Contact: jihong(dot)zhu(at)york(dot)ac(dot)uk
 
 
 # News
-* Our collaborative project on Robotic Positioning Assistance in Breast Screening with [Assuring Autonomy International Programme](https://www.york.ac.uk/assuring-autonomy/) and York Hospital is recommended for funding from [CRUK](https://www.cancerresearchuk.org/)
+* Jihong received [Early Detection and Diagnosis Primer Award](https://www.cancerresearchuk.org/funding-for-researchers/our-funding-schemes/early-detection-and-diagnosis-primer-award) from [CRUK](https://www.cancerresearchuk.org/)
 * Our Lab [Robot-Assisted Living LAboratory (RALLA)](https://uyork-robotic-manipulation-lab.github.io/) website is launched! We are located at 031, [Institute for Safe Autonomy](https://www.york.ac.uk/safe-autonomy/)
 * Jihong is an invited speaker and a member of the organisation committee for [The 5th UK Robot Manipulation Workshop](https://www.robot-manipulation.uk/)
 * Both of my previous master students' research were accepted at [18th International Symposium on Experimental Robotics (ISER 2023)](https://iser2023.org/)! Congrats Yulei and Jianyong! <br>
