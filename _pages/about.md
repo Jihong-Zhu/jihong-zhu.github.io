@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<span style="color:red"> **I am looking for self-funded students PhD students who are interested in robotic manipulation, drop me an email if you are interested in working with me**</span>.
+<span style="color:red"> **I have a fully funded studentship on [A Robot Chemist that can Learn from Humans](https://www.findaphd.com/phds/project/a-robot-chemist-that-can-learn-from-humans/?p165767) application deadline: January 05, 2024**</span>.
 
 Lecturer (=Assistant Professor) of Robotics, [Robot-Assisted Living LAboratory (RALLA)](https://uyork-robotic-manipulation-lab.github.io/)
 
@@ -27,6 +27,7 @@ Contact: jihong(dot)zhu(at)york(dot)ac(dot)uk
 
 
 # News
+* New PhD studentship on [A Robot Chemist that can Learn from Humans](https://www.findaphd.com/phds/project/a-robot-chemist-that-can-learn-from-humans/?p165767), co-supervisors: [Prof. Andy Tyrrell](https://www.york.ac.uk/physics-engineering-technology/people/andy_tyrrell/) and [Prof. Ian Fairlamb](https://www.york.ac.uk/chemistry/staff/academic/d-g/ifairlamb/). **APPLY NOW if you are interested in working with me**.
 * Jihong received [Early Detection and Diagnosis Primer Award](https://www.cancerresearchuk.org/funding-for-researchers/our-funding-schemes/early-detection-and-diagnosis-primer-award) from [CRUK](https://www.cancerresearchuk.org/)
 * Our Lab [Robot-Assisted Living LAboratory (RALLA)](https://uyork-robotic-manipulation-lab.github.io/) website is launched! We are located at 031, [Institute for Safe Autonomy](https://www.york.ac.uk/safe-autonomy/)
 * Jihong is an invited speaker and a member of the organisation committee for [The 5th UK Robot Manipulation Workshop](https://www.robot-manipulation.uk/)
