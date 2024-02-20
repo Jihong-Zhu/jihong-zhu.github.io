@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<span style="color:red"> **I have a fully funded studentship on [A Robot Chemist that can Learn from Humans](https://www.findaphd.com/phds/project/a-robot-chemist-that-can-learn-from-humans/?p165767) application deadline: January 05, 2024**</span>.
-
 Lecturer (=Assistant Professor) of Robotics, [Robot-Assisted Living LAboratory (RALLA)](https://uyork-robotic-manipulation-lab.github.io/)
 
 [School of Physics, Engineering and Technology](https://www.york.ac.uk/physics-engineering-technology/),
@@ -27,7 +25,10 @@ Contact: jihong(dot)zhu(at)york(dot)ac(dot)uk
 
 
 # News
-* New PhD studentship on [A Robot Chemist that can Learn from Humans](https://www.findaphd.com/phds/project/a-robot-chemist-that-can-learn-from-humans/?p165767), co-supervisors: [Prof. Andy Tyrrell](https://www.york.ac.uk/physics-engineering-technology/people/andy_tyrrell/) and [Prof. Ian Fairlamb](https://www.york.ac.uk/chemistry/staff/academic/d-g/ifairlamb/). **APPLY NOW if you are interested in working with me**.
+* Jihong was interviewed by BBC Yorkshire for his research on assistive dressing 
+* new journal paper<br>
+  Jihong Zhu, Michael Gienger, Giovanni Franzese and Jens Kober. [Do You Need a Hand?--a Bimanual Robotic Dressing Assistance Scheme.](https://arxiv.org/pdf/2301.02749.pdf) IEEE Transactions on Robotics, 2024. 
+* Main organiser for ICRA 24 workshop on [Exploring Role Allocation in Human-Robot Co-Manipulation](https://sites.google.com/york.ac.uk/icra24-co-manipulation/home-page)
 * Jihong received [Early Detection and Diagnosis Primer Award](https://www.cancerresearchuk.org/funding-for-researchers/our-funding-schemes/early-detection-and-diagnosis-primer-award) from [CRUK](https://www.cancerresearchuk.org/)
 * Our Lab [Robot-Assisted Living LAboratory (RALLA)](https://uyork-robotic-manipulation-lab.github.io/) website is launched! We are located at 031, [Institute for Safe Autonomy](https://www.york.ac.uk/safe-autonomy/)
 * Jihong is an invited speaker and a member of the organisation committee for [The 5th UK Robot Manipulation Workshop](https://www.robot-manipulation.uk/)
