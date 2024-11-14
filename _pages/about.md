@@ -25,6 +25,8 @@ Contact: jihong(dot)zhu(at)york(dot)ac(dot)uk
 
 
 # News
+* Jihong serves as publicity co-chair for TAROS 2025
+* Jihong is the founding co-chair of IEEE RAS Working Group on Deformable Object Manipulation together with [Xiang Li](https://sites.google.com/view/homepageoflixiang/home), [Daniel Seita](https://danielseita.github.io/), [Claire Dune](https://cosmer.univ-tln.fr/en/claire-dune-2/), [Adrien Koessler](https://www.researchgate.net/profile/Adrien-Koessler)
 * Jihong is co-organising workshop on [Learning for Assistive Robotics](https://sites.google.com/view/rss2024-assistive-robotics) and also an invited speaker for [Robots that help 
 and ask for help](https://sites.google.com/unisi.it/robots-that-ask-for-help/home-page) at [RSS 2024](https://roboticsconference.org/) 
 * Our [bimanual assistive dressing scheme](https://sites.google.com/view/bimanualassitdressing/) was reported by [the BBC](https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-68489999), [The independent](https://www.independent.co.uk/news/health/robotics-york-university-caroline-abrahams-netherlands-martin-green-b2506739.html), [York Press](https://www.yorkpress.co.uk/news/24160329.university-york-scientists-create-two-armed-carer-robot/), [The Standard](https://www.standard.co.uk/news/health/robotics-netherlands-care-age-uk-england-b1143098.html) & [TechXplore](https://techxplore.com/news/2024-03-robot-mimic-actions-workers.html).
